@@ -1,0 +1,21 @@
+.box-container{
+    min-height:400px;
+    background:rgb(252,252,252);
+    margin:0 0 20px 0;
+}
+
+.box-container .box{
+    float:left;
+    height:100px;
+}
+.yellow-boxes .box{
+    width:23%;
+    margin:0 1%;
+    background:yellow;
+}
+.blue-boxes .box{
+    width:31%;
+    margin:0 1%;
+    background: blue;
+}
+

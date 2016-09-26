@@ -1,0 +1,16 @@
+.canvas{
+    height:800px;
+    background:rgb(252,252,252);
+}
+
+.axis{
+    fill:none;
+    stroke-width:1px;
+    stroke:rgb(180,180,180);
+}
+
+.nested-circle{
+    fill-opacity:.1;
+    stroke-width:2px;
+    stroke:black;
+}
